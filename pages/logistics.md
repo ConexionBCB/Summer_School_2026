@@ -24,7 +24,7 @@ Información práctica de la Escuela de Verano en Bioinformática Avanzada 2026.
 ## Fechas y horario
 
 - **20–24 de julio de 2026** (de lunes a viernes).
-- Sesiones: **09:00–13:30** y **14:30–18:00** (pausa para comer de 12:30 a 13:30).
+- Sesiones (de martes a jueves): **10:00–13:30** y **14:30–18:00** (pausa para comer de 13:30 a 14:30).
   - El lunes las actividades comenzarán después de la comida.
   - El viernes por la tarde no habrá sesiones para facilitar los viajes de vuelta.
 
