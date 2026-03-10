@@ -16,7 +16,7 @@ permalink: /day3-wednesday/
 |-------------|------------------------------------------------------------------------|-------------------|
 | 09:00–13:30 | Transcriptómica de lecturas largas (teoría + prácticas) — Ana Conesa  | Teoría + café + práctica |
 | 13:30–14:30 | Pausa comida                                                           | —                 |
-| 14:30–18:00 | Modelos para biología de sistemas (FBA, modelos booleanos, etc.) — Arnau Montagut | Teoría + café + práctica |
+| 14:30–18:00 | Modelos para biología de sistemas (FBA, modelos booleanos, etc.) — Arnau Montagud | Teoría + café + práctica |
 {: .schedule-table }
 
 ## Materiales
