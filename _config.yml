@@ -20,6 +20,8 @@ nav:
     path: /day4-thursday/
   - label: Viernes 24
     path: /day5-friday/
+  - label: Organización
+    path: /organizacion/
   - label: Logística
     path: /logistics/
 

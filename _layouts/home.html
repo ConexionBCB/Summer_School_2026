@@ -70,4 +70,28 @@ layout: default
       <p><a href="{{ site.baseurl }}/schedule/" class="btn btn-secondary">Programa completo</a></p>
     </div>
   </section>
+
+  {% assign profes = site.data.profesorado %}
+  {% if profes and profes.size > 0 %}
+  <section class="profesorado-overview">
+    <div class="container">
+      <h2>Profesorado</h2>
+      <div class="person-grid person-grid--compact">
+        {% for p in profes %}
+        <div class="person-card person-card--compact">
+          {% if p.foto %}
+          <img src="{{ site.baseurl }}/assets/img/profesorado/{{ p.foto }}" alt="{{ p.nombre }}" class="person-photo" />
+          {% endif %}
+          <h3 class="person-name">{{ p.nombre }}</h3>
+          <p class="person-rol">{{ p.rol }}</p>
+          {% if p.web %}
+          <a href="{{ p.web }}" target="_blank" rel="noopener noreferrer">Web</a>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+      <p><a href="{{ site.baseurl }}/organizacion/" class="btn btn-secondary">Ver organización completa</a></p>
+    </div>
+  </section>
+  {% endif %}
 </div>

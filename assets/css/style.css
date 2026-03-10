@@ -279,6 +279,120 @@ body {
   color: var(--color-accent);
 }
 
+/* Profesorado / Organización (home + página Organización) */
+.profesorado-overview {
+  padding: var(--space-2xl) 0;
+  background: var(--color-bg);
+  border-top: 1px solid var(--color-border);
+}
+
+.profesorado-overview h2,
+.org-section-title {
+  font-size: 1.25rem;
+  color: var(--color-primary);
+  margin: 0 0 var(--space-lg);
+}
+
+.org-section {
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-xl);
+  border-top: 1px solid var(--color-border);
+}
+
+.person-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.person-grid--compact {
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: var(--space-md);
+}
+
+.person-card {
+  background: var(--color-bg-card);
+  padding: var(--space-lg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid var(--color-border);
+  text-align: center;
+}
+
+.person-card--compact {
+  padding: var(--space-md);
+}
+
+.person-photo {
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
+  aspect-ratio: 1;
+  margin: 0 auto var(--space-md);
+  display: block;
+}
+
+.person-name {
+  font-size: 1rem;
+  color: var(--color-primary);
+  margin: 0 0 var(--space-xs);
+}
+
+.person-rol {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-sm);
+}
+
+.person-card a {
+  font-size: 0.875rem;
+  color: var(--color-primary-light);
+  text-decoration: none;
+}
+
+.person-card a:hover {
+  text-decoration: underline;
+  color: var(--color-accent);
+}
+
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: var(--space-xl);
+  align-items: center;
+  margin-bottom: var(--space-lg);
+}
+
+.sponsor-card {
+  text-align: center;
+}
+
+.sponsor-logo-link {
+  display: block;
+  margin-bottom: var(--space-sm);
+}
+
+.sponsor-logo {
+  max-width: 160px;
+  max-height: 80px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.sponsor-name {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.page-organizacion .page-body {
+  max-width: none;
+}
+
 /* Page content (schedule, day pages, logistics) */
 .page-content {
   padding: var(--space-xl) 0;

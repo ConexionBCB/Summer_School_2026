@@ -1,0 +1,6 @@
+# Profesorado: añade entradas con nombre, rol, foto (en assets/img/profesorado/), web
+
+- nombre: Ana Conesa
+  rol: Transcriptómica de lecturas largas
+  foto: ana_conesa.webp
+  web: https://conesalab.uv.es/
