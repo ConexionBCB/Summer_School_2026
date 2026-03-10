@@ -4,20 +4,28 @@ title: Viernes 24 de julio
 permalink: /day5-friday/
 ---
 
-**Día 5** — Tema y sesiones por concretar.
+**Día 5** — Integración multi‑ómica y cierre del curso.
 
 ## Horario
 
-| Hora        | Sesión         | Tipo     |
-|-------------|----------------|----------|
-| 09:00–12:30 | *Por anunciar* | Teoría   |
-| 12:30–13:30 | Pausa comida   | —        |
-| 13:30–17:00 | *Por anunciar* | Práctica |
+| Hora        | Sesión                                              | Tipo              |
+|-------------|-----------------------------------------------------|-------------------|
+| 09:00–12:30 | Integración multi‑ómica (teoría + casos de estudio) | Teoría + discusión|
+| 12:30–13:30 | Pausa comida                                        | —                 |
+| 13:30–17:00 | Tiempo libre para viaje y trabajo individual        | —                 |
 {: .schedule-table }
 
 ## Materiales
 
-- **Teoría:** [Materiales teóricos del día 5]({{ site.baseurl }}/materials/day5/)
-- **Prácticas:** [Prácticas del día 5]({{ site.baseurl }}/materials/day5/)
+- **Teoría y diapositivas:** [Materiales teóricos del día 5]({{ site.baseurl }}/materials/day5/)
 
-Añade los ficheros correspondientes en `materials/day5/` y enlázalos desde aquí.
+En `materials/day5/` se podrán incluir:
+
+- Ejemplos y esquemas de integración multi‑ómica.
+- Documentación de cierre y enlaces de referencia.
+
+## Entrega del mini‑syllabus
+
+El viernes por la mañana se recordará la **fecha y forma de entrega** del
+mini‑syllabus preparado por cada participante, necesario para la emisión de
+los **certificados y el reconocimiento de créditos ECTS**.

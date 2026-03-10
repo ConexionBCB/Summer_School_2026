@@ -4,20 +4,23 @@ title: Jueves 23 de julio
 permalink: /day4-thursday/
 ---
 
-**Día 4** — Tema y sesiones por concretar.
+**Día 4** — Single‑cell y transcriptómica espacial.
 
 ## Horario
 
-| Hora        | Sesión         | Tipo     |
-|-------------|----------------|----------|
-| 09:00–12:30 | *Por anunciar* | Teoría   |
-| 12:30–13:30 | Pausa comida   | —        |
-| 13:30–17:00 | *Por anunciar* | Práctica |
+| Hora        | Sesión                                  | Tipo              |
+|-------------|-----------------------------------------|-------------------|
+| 09:00–12:30 | Single‑cell (teoría + prácticas)        | Teoría + práctica |
+| 12:30–13:30 | Pausa comida                            | —                 |
+| 13:30–17:00 | Transcriptómica espacial (teoría + prácticas) | Teoría + práctica |
 {: .schedule-table }
 
 ## Materiales
 
-- **Teoría:** [Materiales teóricos del día 4]({{ site.baseurl }}/materials/day4/)
-- **Prácticas:** [Prácticas del día 4]({{ site.baseurl }}/materials/day4/)
+- **Teoría y diapositivas:** [Materiales teóricos del día 4]({{ site.baseurl }}/materials/day4/)
+- **Pipelines y notebooks:** [Prácticas del día 4]({{ site.baseurl }}/materials/day4/)
 
-Añade los ficheros correspondientes en `materials/day4/` y enlázalos desde aquí.
+En `materials/day4/` se pueden añadir:
+
+- Workflows de análisis single‑cell.
+- Ejemplos de análisis de transcriptómica espacial.
