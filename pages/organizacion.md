@@ -8,4 +8,4 @@ permalink: /organizacion/
   <img src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg" alt="Conexión BCB" class="page-logo-small" />
 </p>
 
-En esta página encontrarás el **profesorado** que imparte las sesiones, las personas **organizadoras** del curso y las entidades **patrocinadoras**. Los datos se actualizan desde los ficheros en `_data/` (ver README del repositorio).
+En esta página encontrarás el **profesorado** que imparte las sesiones, las personas **organizadoras** del curso y las entidades **patrocinadoras**.

@@ -1,2 +1,19 @@
 # Organizadores: nombre, rol/afiliación, foto (opcional), web (opcional)
-[]
+- nombre: Carolina Monzó
+  rol: Directora Científica
+  afiliación: Instituto de Biología Integrativa de Sistemas (I2SysBio-CSIC)
+  foto: CarolMonzoPictureProfile_small.jpeg
+  web: https://carolinamonzo.github.io/
+
+- nombre: Ana Barra Ahijado
+  rol: Coordinadora
+  afiliación: Consejo Superior de Investigaciones Científicas (CSIC)
+  foto: Ana-Barra-Ahijado.jpg
+  web: https://www.csic.es/
+
+- nombre: Pedro Braña Coto
+  rol: Coordinador local
+  afiliación: Centro de Física de Materiales (CFM-CSIC)
+  foto: Pedro-Braña-Coto.jpg
+  web: https://cfm.ehu.es/research-lines/chemical-physics-of-complex-materials/
+
