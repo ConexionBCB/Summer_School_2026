@@ -148,8 +148,8 @@ body {
 }
 
 .hero-logo {
-  max-width: 360px;
-  width: 70%;
+  max-width: 480px;
+  width: 90%;
   height: auto;
   margin: 0 auto var(--space-lg);
   display: block;
@@ -315,7 +315,7 @@ body {
 }
 
 .page-logo-small {
-  max-width: 220px;
+  max-width: 320px;
   height: auto;
   opacity: 1;
   display: block;
@@ -330,6 +330,11 @@ body {
   .page-logo-wrap {
     margin-top: var(--space-sm);
   }
+}
+
+.day-logo {
+  text-align: right;
+  margin-bottom: var(--space-md);
 }
 
 .page-body h2 {
