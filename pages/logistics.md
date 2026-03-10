@@ -106,4 +106,4 @@ interurbanos, cercanías, etc.) se puede consultar:
 ## Contacto
 
 - **Correo de contacto:** *por confirmar*  
-- **Información e inscripciones:** *enlace o indicaciones por añadir*
+- **Inscripción:** [Formulario de inscripción](https://forms.gle/22wtmQtaQmPML4V66) (cuestionario de Google).
