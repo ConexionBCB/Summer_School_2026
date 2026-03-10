@@ -1,4 +1,4 @@
-/* Summer School 2026 - BCB-inspired branding */
+/* Escuela de Verano en Bioinformática Avanzada 2026 - BCB-inspired branding */
 :root {
   --color-primary: #1a365d;
   --color-primary-light: #2c5282;
@@ -315,7 +315,7 @@ body {
 }
 
 .page-logo-small {
-  max-width: 320px;
+  max-width: 160px;
   height: auto;
   opacity: 1;
   display: block;
@@ -437,7 +437,8 @@ body {
 }
 
 .footer-logo {
-  max-width: 260px;
+  max-width: 380px;
+  width: 100%;
   height: auto;
 }
 

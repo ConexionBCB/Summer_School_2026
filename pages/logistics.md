@@ -8,7 +8,24 @@ permalink: /logistics/
   <img src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg" alt="Conexión BCB" class="page-logo-small" />
 </p>
 
-Información práctica de la Escuela de Verano 2026.
+Información práctica de la Escuela de Verano en Bioinformática Avanzada 2026.
+
+## Matrícula
+
+- **Precio:** 450 € por persona.
+- La matrícula incluye:
+  - Alojamiento en **pensión completa** (desayuno, comida, cena y pausas de café)
+    en residencia de estudiantes.
+  - Acceso a todas las sesiones teóricas y prácticas.
+  - Material docente proporcionado durante el curso.
+  - Acceso al servidor donde realizaremos las sesiones prácticas.
+
+## Fechas y horario
+
+- **20–24 de julio de 2026** (de lunes a viernes).
+- Sesiones: **09:00–13:30** y **14:30–18:00** (pausa para comer de 12:30 a 13:30).
+  - El lunes las actividades comenzarán después de la comida.
+  - El viernes por la tarde no habrá sesiones para facilitar los viajes de vuelta.
 
 ## Sede
 
@@ -20,23 +37,6 @@ el campus y servicios: <https://www.uniovi.es>.
 El alojamiento incluido en la matrícula serán habitaciones individuales en la **residencia de estudiantes**
 próxima al campus (los detalles concretos se comunicarán a las personas
 inscritas).
-
-## Fechas y horario
-
-- **20–24 de julio de 2026** (de lunes a viernes).
-- Sesiones: **09:00–13:30** y **14:30–18:00** (pausa para comer de 12:30 a 13:30).
-  - El lunes las actividades comenzarán después de la comida.
-  - El viernes por la tarde no habrá sesiones para facilitar los viajes de vuelta.
-
-## Matrícula
-
-- **Precio:** 450 € por persona.
-- La matrícula incluye:
-  - Alojamiento en **pensión completa** (desayuno, comida, cena y pausas de café)
-    en residencia de estudiantes.
-  - Acceso a todas las sesiones teóricas y prácticas.
-  - Material docente proporcionado durante el curso.
-  - Acceso al servidor donde realizaremos las sesiones prácticas.
 
 ## Requisitos previos
 

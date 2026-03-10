@@ -1,4 +1,4 @@
-# Escuela de Verano 2026
+# Escuela de Verano en Bioinformática Avanzada 2026
 
 Curso avanzado de bioinformática en formato **teach‑the‑teacher** (20–24 de
 julio de 2026, de lunes a viernes).
