@@ -3,27 +3,6 @@
 Curso avanzado de bioinformática en formato **teach‑the‑teacher** (20–24 de
 julio de 2026, de lunes a viernes).
 
-## Página web
-
-El sitio del curso está construido con [Jekyll](https://jekyllrb.com/) para
-[GitHub Pages](https://pages.github.com/).
-
-- **Sitio en producción:** una vez activado GitHub Pages para este repositorio,
-  estará en  
-  `https://conexionbcb.github.io/Summer_School_2026/`
-- Asegúrate de que el valor de `url` en `_config.yml` coincide con tu URL de
-  GitHub Pages (por ejemplo, `https://conexionbcb.github.io`).
-
-## Ejecutar en local
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Después abre  
-[http://localhost:4000/Summer_School_2026/](http://localhost:4000/Summer_School_2026/).
-
 ## Estructura
 
 - `index.md` — Página de inicio (presentación, perfil de participantes, resumen

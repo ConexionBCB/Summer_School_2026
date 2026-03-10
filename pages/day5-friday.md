@@ -10,9 +10,9 @@ permalink: /day5-friday/
 
 | Hora        | Sesión                                              | Tipo              |
 |-------------|-----------------------------------------------------|-------------------|
-| 09:00–12:30 | Integración multi‑ómica (teoría + casos de estudio) | Teoría + discusión|
-| 12:30–13:30 | Pausa comida                                        | —                 |
-| 13:30–17:00 | Tiempo libre para viaje y trabajo individual        | —                 |
+| 09:00–13:30 | Integración multi‑ómica (teoría + casos de estudio) | Teoría + café + práctica|
+| 13:30–14:00 | Despedida                                        | —                 |
+| 14:00–15:00 | Comida        | —                 |
 {: .schedule-table }
 
 ## Materiales

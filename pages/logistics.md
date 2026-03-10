@@ -11,16 +11,16 @@ Información práctica de la Escuela de Verano 2026.
 La Escuela de Verano se celebrará en la **Universidad de Oviedo** (Oviedo,
 Asturias, España).  
 En la web oficial de la universidad encontrarás información actualizada sobre
-los distintos campus y servicios: <https://www.uniovi.es>.
+el campus y servicios: <https://www.uniovi.es>.
 
-El alojamiento incluido en la matrícula será en una **residencia de estudiantes**
+El alojamiento incluido en la matrícula serán habitaciones individuales en la **residencia de estudiantes**
 próxima al campus (los detalles concretos se comunicarán a las personas
 inscritas).
 
 ## Fechas y horario
 
 - **20–24 de julio de 2026** (de lunes a viernes).
-- Sesiones: **09:00–12:30** y **13:30–17:00** (pausa para comer de 12:30 a 13:30).
+- Sesiones: **09:00–13:30** y **14:30–18:00** (pausa para comer de 12:30 a 13:30).
   - El lunes las actividades comenzarán después de la comida.
   - El viernes por la tarde no habrá sesiones para facilitar los viajes de vuelta.
 
@@ -32,18 +32,16 @@ inscritas).
     en residencia de estudiantes.
   - Acceso a todas las sesiones teóricas y prácticas.
   - Material docente proporcionado durante el curso.
+  - Acceso al servidor donde realizaremos las sesiones prácticas.
 
 ## Requisitos previos
 
-- Familiaridad con la línea de comandos (Unix/Linux) y con conceptos básicos de
-  bioinformática.
+- Familiaridad con la línea de comandos (Unix/Linux) y con conceptos de
+  bioinformática (R, python, análisis de RNA-Seq, llamado de variantes etc).
 - Este es un curso en formato **teach‑the‑teacher**, dirigido a:
   - Profesorado de bioinformática.
   - Personas que quieren organizar su primer curso de bioinformática.
-  - Bioinformáticos/as interesados/as en temas avanzados.
-
-Se detallarán aquí también los requisitos de software (por ejemplo, sistemas
-operativos recomendados, programas a instalar, acceso a clúster/servidor, etc.).
+  - Bioinformáticos/as interesados/as en temáticas avanzadas.
 
 ## Reconocimiento de créditos ECTS
 
