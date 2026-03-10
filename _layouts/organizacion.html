@@ -59,15 +59,21 @@ layout: default
         {% for s in patro %}
         <div class="sponsor-card">
           {% if s.logo %}
-          <a href="{{ s.web | default: '#' }}" target="_blank" rel="noopener noreferrer" class="sponsor-logo-link">
+          <a href="{% if s.web %}{{ s.web }}{% else %}#{% endif %}" target="_blank" rel="noopener noreferrer" class="sponsor-logo-link">
             <img src="{{ site.baseurl }}/assets/img/logos/{{ s.logo }}" alt="{{ s.nombre }}" class="sponsor-logo" />
           </a>
           {% endif %}
-          {% if s.web and not s.logo %}
-          <p class="sponsor-name"><a href="{{ s.web }}" target="_blank" rel="noopener noreferrer">{{ s.nombre }}</a></p>
-          {% else %}
-          <p class="sponsor-name">{{ s.nombre }}</p>
-          {% endif %}
+          <p class="sponsor-name">
+            {% if s.web %}
+              {% if s.logo %}
+                {{ s.nombre }}
+              {% else %}
+                <a href="{{ s.web }}" target="_blank" rel="noopener noreferrer">{{ s.nombre }}</a>
+              {% endif %}
+            {% else %}
+              {{ s.nombre }}
+            {% endif %}
+          </p>
         </div>
         {% endfor %}
       </div>
