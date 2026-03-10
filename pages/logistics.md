@@ -13,6 +13,7 @@ Información práctica de la Escuela de Verano en Bioinformática Avanzada 2026.
 ## Matrícula
 
 - **Precio:** 450 € por persona.
+- **Descuento socios SEBiBC:** 25 € de descuento para personas socias de la [Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)](https://www.sebibc.es/) (precio final 425 €).
 - La matrícula incluye:
   - Alojamiento en **pensión completa** (desayuno, comida, cena y pausas de café)
     en residencia de estudiantes.
