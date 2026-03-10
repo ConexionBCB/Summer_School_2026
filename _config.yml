@@ -1,0 +1,28 @@
+# Escuela de Verano 2026 - Bioinformática Teach-the-Teacher
+title: "Escuela de Verano 2026"
+description: "Curso avanzado de bioinformática para profesorado y personas que diseñan asignaturas. 20–24 de julio de 2026."
+baseurl: "/Summer_School_2026"
+url: "https://conexionbcb.github.io"
+
+# Navegación (etiqueta, ruta relativa a baseurl)
+nav:
+  - label: Inicio
+    path: /
+  - label: Programa
+    path: /schedule/
+  - label: Lunes 20
+    path: /day1-monday/
+  - label: Martes 21
+    path: /day2-tuesday/
+  - label: Miércoles 22
+    path: /day3-wednesday/
+  - label: Jueves 23
+    path: /day4-thursday/
+  - label: Viernes 24
+    path: /day5-friday/
+  - label: Logística
+    path: /logistics/
+
+# Build
+markdown: kramdown
+highlighter: rouge
