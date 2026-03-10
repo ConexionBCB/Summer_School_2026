@@ -4,6 +4,10 @@ title: Programa
 permalink: /schedule/
 ---
 
+<p class="day-logo">
+  <img src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg" alt="Conexión BCB" class="page-logo-small" />
+</p>
+
 Resumen de la semana. Cada día tiene su propia página con el horario detallado,
 los temas y enlaces a los materiales teóricos y prácticos.
 

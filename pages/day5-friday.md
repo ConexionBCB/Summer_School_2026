@@ -4,6 +4,10 @@ title: Viernes 24 de julio
 permalink: /day5-friday/
 ---
 
+<p class="day-logo">
+  <img src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg" alt="Conexión BCB" class="page-logo-small" />
+</p>
+
 **Día 5** — Integración multi‑ómica y cierre del curso.
 
 ## Horario

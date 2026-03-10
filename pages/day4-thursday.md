@@ -4,6 +4,10 @@ title: Jueves 23 de julio
 permalink: /day4-thursday/
 ---
 
+<p class="day-logo">
+  <img src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg" alt="Conexión BCB" class="page-logo-small" />
+</p>
+
 **Día 4** — Single‑cell y transcriptómica espacial.
 
 ## Horario

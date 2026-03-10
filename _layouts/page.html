@@ -3,19 +3,8 @@ layout: default
 ---
 <article class="page-content">
   <div class="container">
-    <div class="page-header-row">
-      <div>
-        <p class="breadcrumb">{{ site.title }} · {{ page.title }}</p>
-        <h1 class="page-title">{{ page.title }}</h1>
-      </div>
-      <div class="page-logo-wrap" aria-hidden="true">
-        <img
-          src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg"
-          alt=""
-          class="page-logo-small"
-        />
-      </div>
-    </div>
+    <p class="breadcrumb">{{ site.title }} · {{ page.title }}</p>
+    <h1 class="page-title">{{ page.title }}</h1>
     <div class="page-body">
       {{ content }}
     </div>

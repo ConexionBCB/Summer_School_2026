@@ -4,6 +4,10 @@ title: Miércoles 22 de julio
 permalink: /day3-wednesday/
 ---
 
+<p class="day-logo">
+  <img src="{{ site.baseurl }}/assets/img/logos/logo_auxiliar.svg" alt="Conexión BCB" class="page-logo-small" />
+</p>
+
 **Día 3** — Transcriptómica de lecturas largas y modelos para biología de sistemas.
 
 ## Horario
