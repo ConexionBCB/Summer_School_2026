@@ -1,7 +1,11 @@
 # Escuela de Verano en Bioinformática Avanzada 2026
 
-Curso avanzado de bioinformática en formato **teach‑the‑teacher** (20–24 de
-julio de 2026, de lunes a viernes).
+Curso avanzado de bioinformática centrado en métodos modernos de análisis de
+datos (ensamblado, long‑reads, single‑cell, multi‑ómica, modelos, etc.), del
+20 al 24 de julio de 2026 (de lunes a viernes). El curso está dirigido a
+personas que ya trabajan con datos bioinformáticos y quieren actualizarse, y
+ofrece material didáctico que resulta ideal para docentes que deseen renovar
+sus asignaturas.
 
 ## Estructura
 

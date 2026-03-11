@@ -42,11 +42,11 @@ inscritas).
 ## Requisitos previos
 
 - Familiaridad con la línea de comandos (Unix/Linux) y con conceptos de
-  bioinformática (R, python, análisis de RNA-Seq, llamado de variantes etc).
-- Este es un curso en formato **teach‑the‑teacher**, dirigido a:
-  - Profesorado de bioinformática.
-  - Personas que quieren organizar su primer curso de bioinformática.
-  - Bioinformáticos/as interesados/as en temáticas avanzadas.
+  bioinformática (R, Python, análisis de RNA-Seq, llamado de variantes, etc.).
+- El curso está orientado a personas que ya trabajan o estudian en bioinformática
+  y quieren profundizar en temas avanzados (ensamblado, long‑reads, single‑cell,
+  multi‑ómica, modelos, etc.). Resulta especialmente útil para quienes preparan
+  o imparten docencia en estas áreas.
 
 ## Reconocimiento de créditos ECTS
 
