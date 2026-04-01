@@ -205,22 +205,22 @@ body {
   color: #fff;
 }
 
-.btn-programa {
+.btn.btn-programa {
   background: #f6e05e;
   color: #1a202c;
 }
 
-.btn-programa:hover {
+.btn.btn-programa:hover {
   background: #ecc94b;
   color: #1a202c;
 }
 
-.btn-preinscripcion {
+.btn.btn-preinscripcion {
   background: var(--color-accent);
   color: #fff;
 }
 
-.btn-preinscripcion:hover {
+.btn.btn-preinscripcion:hover {
   background: var(--color-accent-hover);
   color: #fff;
 }
