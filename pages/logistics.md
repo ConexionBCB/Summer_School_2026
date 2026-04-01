@@ -106,5 +106,14 @@ interurbanos, cercanías, etc.) se puede consultar:
 
 ## Contacto
 
-- **Correo de contacto:** *por confirmar*  
-- **Inscripción:** [Formulario de inscripción](https://forms.gle/22wtmQtaQmPML4V66) (cuestionario de Google).
+- **Correo de contacto:** [conexion-bcb@csic.es](mailto:conexion-bcb@csic.es)  
+- **Pre-inscripción:** [Formulario de pre-inscripción](https://forms.gle/22wtmQtaQmPML4V66) (cuestionario de Google).
+
+<p style="margin-top: var(--space-lg);">
+  <a
+    href="https://forms.gle/22wtmQtaQmPML4V66"
+    class="btn btn-secondary btn-preinscripcion"
+    target="_blank"
+    rel="noopener noreferrer"
+  >Pre-inscripción</a>
+</p>
