@@ -10,7 +10,7 @@ nav:
     path: /
   - label: Programa
     path: /schedule/
-  - label: Pre-inscripción
+  - label: Preinscripción
     path: https://forms.gle/22wtmQtaQmPML4V66
   - label: Lunes 20
     path: /day1-monday/
