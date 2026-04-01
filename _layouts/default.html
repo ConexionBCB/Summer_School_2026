@@ -15,7 +15,11 @@
       <a href="{{ site.baseurl }}/" class="site-logo">{{ site.title }}</a>
       <nav class="site-nav" aria-label="Navegación principal">
         {% for item in site.nav %}
-          <a href="{{ site.baseurl }}{{ item.path }}" class="nav-link{% if page.url == item.path %} active{% endif %}">{{ item.label }}</a>
+          {% if item.path contains '://' %}
+            <a href="{{ item.path }}" class="nav-link" target="_blank" rel="noopener noreferrer">{{ item.label }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ item.path }}" class="nav-link{% if page.url == item.path %} active{% endif %}">{{ item.label }}</a>
+          {% endif %}
         {% endfor %}
       </nav>
       <button class="nav-toggle" aria-label="Abrir menú" hidden></button>
