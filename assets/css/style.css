@@ -384,6 +384,7 @@ body {
   gap: var(--space-xl);
   align-items: center;
   margin-bottom: var(--space-lg);
+  justify-items: center;
 }
 
 .sponsor-card {
@@ -396,8 +397,8 @@ body {
 }
 
 .sponsor-logo {
-  max-width: 160px;
-  max-height: 80px;
+  max-width: 220px;
+  max-height: 110px;
   width: auto;
   height: auto;
   object-fit: contain;
