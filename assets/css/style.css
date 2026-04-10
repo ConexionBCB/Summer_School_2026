@@ -467,8 +467,13 @@ body {
 }
 
 .day-logo {
-  text-align: right;
+  text-align: center;
   margin-bottom: var(--space-md);
+}
+
+.day-logo img {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page-body h2 {
@@ -500,7 +505,7 @@ body {
 .schedule-table {
   width: 100%;
   border-collapse: collapse;
-  margin: var(--space-lg) 0;
+  margin: var(--space-lg) auto;
   font-size: 0.9375rem;
   background: var(--color-bg-card);
   border-radius: var(--radius);
