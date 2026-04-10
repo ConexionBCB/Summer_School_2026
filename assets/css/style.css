@@ -383,8 +383,10 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
   gap: var(--space-xl);
   align-items: center;
-  margin-bottom: var(--space-lg);
+  margin: 0 auto var(--space-lg);
+  max-width: 720px;
   justify-items: center;
+  justify-content: center;
 }
 
 .sponsor-card {
