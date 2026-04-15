@@ -14,9 +14,9 @@ permalink: /day4-thursday/
 
 | Hora        | Sesión                                  | Tipo              |
 |-------------|-----------------------------------------|-------------------|
-| 10:00–13:30 | Single‑cell (teoría + prácticas)        | Teoría + café + práctica |
+| 10:00–13:30 | Single‑cell (teoría + prácticas) - Javier De Las Rivas        | Teoría + café + práctica |
 | 13:30–14:30 | Pausa comida                            | —                 |
-| 14:30–18:00 | Transcriptómica espacial (teoría + prácticas) | Teoría + café + práctica |
+| 14:30–18:00 | Transcriptómica espacial (teoría + prácticas) - Enrique Vidal | Teoría + café + práctica |
 {: .schedule-table }
 
 ## Materiales

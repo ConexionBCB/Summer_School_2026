@@ -14,7 +14,7 @@ permalink: /day5-friday/
 
 | Hora        | Sesión                                              | Tipo              |
 |-------------|-----------------------------------------------------|-------------------|
-| 10:00–13:30 | Integración multi‑ómica (teoría + casos de estudio) | Teoría + café + práctica|
+| 10:00–13:30 | Integración multi‑ómica (teoría + casos de estudio) - Ian Morilla | Teoría + café + práctica|
 | 13:30–14:00 | Despedida                                           | —                 |
 | 14:00–15:00 | Comida                                              | —                 |
 {: .schedule-table }
