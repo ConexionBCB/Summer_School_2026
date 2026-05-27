@@ -16,7 +16,7 @@ Información práctica de la Escuela de Verano en Bioinformática Avanzada 2026.
 - **Descuento socios SEBiBC:** 25 € de descuento para personas socias de la [Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)](https://www.sebibc.es/) (precio final 475 €).
 - La matrícula incluye:
   - Alojamiento en **pensión completa** (desayuno, comida, cena y pausas de café)
-    en residencia de estudiantes.
+    en Residencia de Estudiantes Aller.
   - Acceso a todas las sesiones teóricas y prácticas.
   - Material docente proporcionado durante el curso.
   - Acceso al servidor donde realizaremos las sesiones prácticas.
@@ -30,10 +30,13 @@ Información práctica de la Escuela de Verano en Bioinformática Avanzada 2026.
 
 ## Sede
 
-La Escuela de Verano se celebrará en la **Universidad de Oviedo** (Oviedo,
-Asturias, España).  
-En la web oficial de la universidad encontrarás información actualizada sobre
-el campus y servicios: <https://www.uniovi.es>.
+La Escuela de Verano se celebrará en la **Universidad de Oviedo**, **aula 24**.
+
+- **Dirección:** Avda. Julián Clavería, 8, 33006 Oviedo, Asturias (España).
+- **Web de la facultad:** <https://quimica.uniovi.es/>
+
+En la web oficial de la universidad encontrarás información general sobre campus
+y servicios: <https://www.uniovi.es>.
 
 El alojamiento incluido en la matrícula serán habitaciones individuales en la **residencia de estudiantes**
 próxima al campus (los detalles concretos se comunicarán a las personas
