@@ -17,8 +17,8 @@ permalink: /day1-monday/
 | Hora        | Sesión                                                          | Tipo        |
 |-------------|-----------------------------------------------------------------|-------------|
 | 14:30–15:30 | Sesión de bienvenida y presentaciones relámpago de participantes| Bienvenida  |
-| 15:30–16:00 | Cómo preparar un programa docente (syllabus) de bioinformática | Teoría + pausa + práctica |
-| 16:00–17:00 | Recursos para la docencia en bioinformática (GitHub, entornos, etc.) | Teoría + pausa + práctica |
+| 15:30–16:00 | Cómo preparar un programa docente (syllabus) de bioinformática | Teoría |
+| 16:00–17:00 | Recursos para la docencia en bioinformática (GitHub, entornos, etc.) | Teoría + pausa |
 | 17:00–18:00 | Conferencia invitada - Lara Lloret, IA en Medicina | Keynote     |
 {: .schedule-table }
 
