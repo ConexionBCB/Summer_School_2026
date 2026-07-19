@@ -16,7 +16,7 @@ permalink: /day3-wednesday/
 |-------------|-----------------------------------------|-------------------|
 | 10:00–13:30 | Single‑cell (teoría + prácticas) — Javier De Las Rivas        | Teoría + café + práctica |
 | 13:30–14:30 | Pausa comida                            | —                 |
-| 14:30–18:00 | Transcriptómica espacial (teoría + prácticas) — Daniel Jesús García García | Teoría + café + práctica |
+| 14:30–18:00 | Transcriptómica espacial (teoría + prácticas) — Daniel Jesús García García | Teoría + pausa + práctica |
 {: .schedule-table }
 
 ## Materiales

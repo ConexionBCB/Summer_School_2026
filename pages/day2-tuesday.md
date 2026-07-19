@@ -16,7 +16,7 @@ permalink: /day2-tuesday/
 |-------------|-----------------------------------------------------------------------|-------------------|
 | 10:00–13:30 | Ensamblado de genomas (teoría + prácticas) — Aureliano Bombarely     | Teoría + café + práctica |
 | 13:30–14:30 | Pausa comida                                                          | —                 |
-| 14:30–18:00 | AlphaFold y predicción de estructura de proteínas — Juan Fernández‑Recio | Teoría + café + práctica |
+| 14:30–18:00 | AlphaFold y predicción de estructura de proteínas — Juan Fernández‑Recio | Teoría + pausa + práctica |
 {: .schedule-table }
 
 ## Materiales
